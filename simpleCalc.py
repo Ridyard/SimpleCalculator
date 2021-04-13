@@ -2,7 +2,7 @@
 # simple calc script
 
 ## to do
-# add additional calculations
+# add additional calculations (floor division, power etc)
 # add gui
 
 import pyinputplus as ip
